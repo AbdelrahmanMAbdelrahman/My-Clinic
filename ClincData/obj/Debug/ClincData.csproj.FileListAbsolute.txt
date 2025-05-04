@@ -1,0 +1,12 @@
+C:\Users\f\source\repos\ClincData\bin\Debug\ClincData.dll
+C:\Users\f\source\repos\ClincData\bin\Debug\ClincData.pdb
+C:\Users\f\source\repos\ClincData\obj\Debug\ClincData.csproj.AssemblyReference.cache
+C:\Users\f\source\repos\ClincData\obj\Debug\ClincData.csproj.CoreCompileInputs.cache
+C:\Users\f\source\repos\ClincData\obj\Debug\ClincData.dll
+C:\Users\f\source\repos\ClincData\obj\Debug\ClincData.pdb
+C:\Users\f\source\repos\ClincFolder\ClincData\bin\Debug\ClincData.dll
+C:\Users\f\source\repos\ClincFolder\ClincData\bin\Debug\ClincData.pdb
+C:\Users\f\source\repos\ClincFolder\ClincData\obj\Debug\ClincData.csproj.AssemblyReference.cache
+C:\Users\f\source\repos\ClincFolder\ClincData\obj\Debug\ClincData.csproj.CoreCompileInputs.cache
+C:\Users\f\source\repos\ClincFolder\ClincData\obj\Debug\ClincData.dll
+C:\Users\f\source\repos\ClincFolder\ClincData\obj\Debug\ClincData.pdb
